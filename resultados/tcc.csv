@@ -1,0 +1,7 @@
+fonte,etapa,modelo,MAE,MSE,RMSE,R2
+Tabela 4,validacao_cruzada,Light Gradient Boosting Machine,60.052,5607.637,74.872,0.5704
+Tabela 4,validacao_cruzada,Gradient Boosting Regressor,60.329,5649.232,75.148,0.5672
+Tabela 4,validacao_cruzada,Extreme Gradient Boosting,60.234,5647.916,75.145,0.5673
+Tabela 4,validacao_cruzada,Random Forest Regressor,62.0652,6053.826,777.922,0.5328
+Tabela 4,validacao_cruzada,Linear Regression,620.330,5994.383,774.078,0.5375
+Tabela 5,teste_2023,Light Gradient Boosting Machine,60.5687,5512.3582,74.2453,0.5716

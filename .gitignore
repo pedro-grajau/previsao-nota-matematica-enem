@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+dados/
+*.pkl
+logs.log
+.ipynb_checkpoints/
